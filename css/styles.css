@@ -13,7 +13,7 @@
 }
 
 .sidebar {
-  width: 300px;
+  width: 330px;
   position: fixed;
   height: 100vh;
   background-color: var(--main-color);
@@ -67,7 +67,7 @@
 }
 
 .main-content {
-  margin-left: 300px;
+  margin-left: 330px;
 }
 
 .main-content header {
